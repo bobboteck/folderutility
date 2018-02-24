@@ -1,0 +1,10 @@
+/home/bobboteck/prj/net/folderutility/bin/Debug/netcoreapp2.0/folderutility.deps.json
+/home/bobboteck/prj/net/folderutility/bin/Debug/netcoreapp2.0/folderutility.runtimeconfig.json
+/home/bobboteck/prj/net/folderutility/bin/Debug/netcoreapp2.0/folderutility.runtimeconfig.dev.json
+/home/bobboteck/prj/net/folderutility/bin/Debug/netcoreapp2.0/folderutility.dll
+/home/bobboteck/prj/net/folderutility/bin/Debug/netcoreapp2.0/folderutility.pdb
+/home/bobboteck/prj/net/folderutility/obj/Debug/netcoreapp2.0/folderutility.csproj.CoreCompileInputs.cache
+/home/bobboteck/prj/net/folderutility/obj/Debug/netcoreapp2.0/folderutility.AssemblyInfoInputs.cache
+/home/bobboteck/prj/net/folderutility/obj/Debug/netcoreapp2.0/folderutility.AssemblyInfo.cs
+/home/bobboteck/prj/net/folderutility/obj/Debug/netcoreapp2.0/folderutility.dll
+/home/bobboteck/prj/net/folderutility/obj/Debug/netcoreapp2.0/folderutility.pdb
